@@ -2,7 +2,6 @@
   <img src="laf.gif" width="420"/>
 </p>
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEVELOPERYUMIN&edge_flat=false&title=hits)
 
 ### 🎓 Major 
 #### AI Department of Information Engineering
@@ -58,6 +57,7 @@
   - Designed spatial data management using **GeoJSON** and visualization based on **Kriging models**  
   - Developed a **GIS heatmap rendering web application** using **Flutter** and **Naver Map API**
 
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEVELOPERYUMIN&edge_flat=false&title=hits)
 
 
 
