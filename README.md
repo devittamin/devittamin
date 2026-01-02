@@ -1,30 +1,6 @@
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
-<h3>👋 Hi, I'm Yumin</h3>
-
-<ul>
-  <li>I approach problems with <b>patience and curiosity</b></li>
-  <li>I enjoy <b>listening, reflecting, and improving</b> through feedback</li>
-  <li>I value <b>steady progress</b> over short-term results</li>
-  <li>I try to build things that people can <b>trust and rely on</b></li>
-</ul>
-
-<p>📌 <i>I believe meaningful work is built step by step.</i></p>
-<p>📌 Looking for opportunities in <b>AI / Data / Cloud Engineering</b></p>
-
-    </td>
-    <td width="40%" align="right">
-
-<img src="laf.gif" width="320"/>
-
-    </td>
-  </tr>
-</table>
-
-
-
+<p align="center">
+  <img src="laf.gif" width="420"/>
+</p>
 
 ### 🎓 Major 
 #### AI Department of Information Engineering
