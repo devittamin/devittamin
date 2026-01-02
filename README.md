@@ -16,34 +16,44 @@
 
 ### 🏆 Awards & Achievements
 
-* 2025 ICEE 창의도전 설계기반 아이디어 경진대회 최우수상
-    * 드론 기반 실내 재난 대피 유도 시스템 개발
-        * 화재경보음 감지 CNN 모델 개발 
+- **Grand Prize**, 2025 ICEE Creative Design-Based Idea Competition  
+  - Developed a **drone-based indoor disaster evacuation guidance system**  
+    - Designed and implemented a **CNN-based fire alarm sound detection model**
 
-* 2024 미국 글로벌 캡스톤 디자인 참여 - 자율주행 
+- **Participant**, 2024 Global Capstone Design Program (USA)  
+  - Autonomous Driving Project
+
+
+### 📚 Currently Studying
+
+- **Retrieval-Augmented Generation (RAG)** for LLM-based applications  
+- **Coding Test Preparation** (Data Structures & Algorithms)
+
 
 ### 🔬 Research Experience
 
-**Cyber Safety Lab - Undergraduate reseacher**
+#### **Cyber Safety Lab — Undergraduate Researcher**
+*Jun 2023 – Dec 2024*
 
-- 2023.06-2024.12
-- 시력측정 의료 AI 모델의 안전성·견고성(Stability/Robustness) 연구
-    - 안과학 환자 5만여 장의 Fundus 이미지 기반 데이터 전처리 분석 및 모델 파인튜닝 
-    - SpecAugment·Mixup 적용, 5-Fold Cross Validation 수행
-    - Medical AI 모델 성능 저하 요인 분석 및 모델 신뢰성·평가 체계 구축
+- Conducted research on **stability and robustness of medical AI models** for vision testing  
+- Preprocessed and analyzed **50,000+ ophthalmology fundus images**, followed by model fine-tuning  
+- Applied **SpecAugment, Mixup**, and **5-Fold Cross Validation** for robust performance evaluation  
+- Investigated performance degradation factors and established **model reliability and evaluation frameworks**
 
-- 자율주행 
-    - 장애물회피 알고리즘 개발 참여 및 대회 참여 
+- **Autonomous Driving Project**
+  - Contributed to **obstacle avoidance algorithm development**
+  - Participated in autonomous driving competitions
 
-**Multi-System Signal Processing Lab - Undergraduate reseacher**
 
-- 2025.03-2025.08
-- 통신 음영지대를 파악하고 네트워크 개선 의사결정을 지원하기 위한 RF Mapping GIS Heatmap 시각화 시스템 개발 
-- 드론에서 수집한 GPS + WiFi RSSI 데이터 기반 RF Mapping 시스템 구축
-    - FastAPI 서버로 CSV/실시간 WebSocket 데이터 수신 및 MongoDB 저장
-    - GeoJSON 포맷 기반 공간데이터 관리 및 kriggin model 기반 시각화 구조 설계
-    - Flutter + Naver Map API를 활용한 GIS Heatmap Rendering web 개발
-    
+#### **Multi-System Signal Processing Lab — Undergraduate Researcher**
+*Mar 2025 – Aug 2025*
+
+- Developed an **RF Mapping GIS heatmap visualization system** to identify communication shadow areas and support network optimization decisions  
+- Built an RF mapping pipeline using **GPS and WiFi RSSI data collected by drones**
+  - Implemented a **FastAPI server** for CSV and real-time WebSocket data ingestion with **MongoDB** storage  
+  - Designed spatial data management using **GeoJSON** and visualization based on **Kriging models**  
+  - Developed a **GIS heatmap rendering web application** using **Flutter** and **Naver Map API**
+
 
 
 
