@@ -1,4 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=360&text=%EC%95%88%EC%9C%A0%EB%AF%BC&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happyyyyy%21%21%21%F0%9F%98%9C&descSize=20&descAlign=50&descAlignY=60)
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+### 👋 Hi, I'm Yumin
+
+- I approach problems with **patience and curiosity**  
+- I enjoy **listening, reflecting, and improving** through feedback  
+- I value **steady progress over short-term results**  
+- I try to build things that people can **trust and rely on**
+
+📌 *I believe meaningful work is built step by step.*
+
+
+📌 *Looking for opportunities in AI / Data / Cloud Engineering*
+
+    </td>
+    <td width="40%" align="right">
+
+<img src="laf.gif" width="320"/>
+
+    </td>
+  </tr>
+</table>
+
 
 ### 🎓 Major 
 #### AI Department of Information Engineering
