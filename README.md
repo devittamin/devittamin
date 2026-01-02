@@ -31,8 +31,7 @@
     - 안과학 환자 5만여 장의 Fundus 이미지 기반 데이터 전처리 분석 및 모델 파인튜닝 
     - SpecAugment·Mixup 적용, 5-Fold Cross Validation 수행
     - Medical AI 모델 성능 저하 요인 분석 및 모델 신뢰성·평가 체계 구축
-- 안과학 의료 LLM 연구 보조 
-    - RAG 개발 담당 
+
 - 자율주행 
     - 장애물회피 알고리즘 개발 참여 및 대회 참여 
 
