@@ -17,16 +17,16 @@
 
 ## 📚 Currently Studying
 
-- **Retrieval-Augmented Generation (RAG)**  
-  - LLM 기반 서비스에서 검색(Retrieval)과 생성(Generation)을 결합한 구조 학습  
-  - 벡터 검색, 프롬프트 설계, RAG 파이프라인 중심으로 실무형 AI 서비스 설계 역량 강화
 
 - **Coding Test Preparation (Data Structures & Algorithms)**  
   - 자료구조(스택, 큐, 해시, 트리) 및 알고리즘 중심 코딩 테스트 준비  
   - 시간복잡도·공간복잡도 분석을 포함한 문제 해결 능력 향상
 
 
+
 ---
+
+
 
 ## 🏆 Awards & Achievements
 
@@ -36,33 +36,38 @@
 
 - **Participant**, 2024 Global Capstone Design Program (USA)  
   - 자율주행(Autonomous Driving) 프로젝트 참여  
-  - 해외 팀과의 협업 경험을 통한 글로벌 프로젝트 수행
+
 
 
 ---
+
 
 ## 🔬 Research Experience
 
 ### **Cyber Safety Lab — Undergraduate Researcher**  
 *Jun 2023 – Dec 2024*
 
-- 의료 영상 기반 **Medical AI 모델의 안정성 및 강건성(stability & robustness)** 연구  
+- 안과학 의료 이미지 기반 **Medical AI 모델의 안정성 및 강건성(stability & robustness)** 연구  
 - 자율주행 프로젝트 참여  
   - 장애물 회피(Obstacle Avoidance) 알고리즘 개발 보조  
   - 자율주행 관련 실험 및 대회 프로젝트 수행
 
 
+
 ---
+
 
 ### **Multi-System Signal Processing Lab — Undergraduate Researcher**  
 *Mar 2025 – Aug 2025*
 
 - 드론 기반 데이터 수집을 활용한 **RF Mapping GIS 히트맵 시각화 시스템** 개발  
-- GPS 및 WiFi RSSI 데이터를 기반으로 통신 음영 지역 분석  
+- GPS 및 WiFi RSSI 등의 데이터를 기반으로 통신 음영 지역 분석  
 - **Kriging 기반 공간 보간 기법**을 적용한 네트워크 품질 분석 및 시각화
 
 
+
 ---
+
 
 ## 🚀 Projects
 
@@ -85,6 +90,8 @@
 
 ---
 
+
+
 ### **Autonomous Driving Project**
 *2024*
 
@@ -100,7 +107,11 @@
 - Sensor-based Decision Making
 
 
+
+
 ---
+
+
 
 ### **RF Mapping GIS Heatmap Visualization System**
 *2025*
