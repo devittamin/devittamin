@@ -27,8 +27,6 @@
 ## 🏆 Awards & Achievements
 
 - **Grand Prize**, 2025 ICEE Creative Design-Based Idea Competition  
-  - 드론 기반 **실내 재난 대피 유도 시스템** 개발  
-  - CNN 기반 **화재 경보음 분류 모델** 설계 및 구현
 
 - **Participant**, 2024 Global Capstone Design Program (USA)  
   - 자율주행(Autonomous Driving) 프로젝트 참여  
@@ -74,10 +72,10 @@
 - GPS가 불가능한 실내 환경을 고려한 자율 주행 기반 재난 대응 시스템
 
 **주요 기여**
-- CNN 기반 **화재 경보음 분류 모델** 설계 및 구현  
+- CNN 기반 화재 경보음 분류 모델 설계 및 구현  
   - Log-Mel Spectrogram 기반 음향 특징 추출  
   - 실시간 마이크 입력을 통한 화재 인식 구조 설계
-- 드론 기반 재난 인지 → 대피 유도까지의 **전체 시스템 흐름 설계**
+- 드론 기반 재난 인지 → 대피 유도까지의 전체 시스템 흐름 설계
 
 **활용 기술**
 - Python, CNN, Audio Signal Processing  
