@@ -41,8 +41,10 @@
 *Mar 2025 – Aug 2025*
 
 - 드론 기반 데이터 수집을 활용한 **RF Mapping GIS 히트맵 시각화 시스템** 개발  
-- GPS 및 WiFi RSSI 등의 데이터를 기반으로 통신 음영 지역 분석  
-- **Kriging 기반 공간 보간 기법**을 적용한 네트워크 품질 분석 및 시각화
+- GPS 및 WiFi RSSI 등의 데이터를 기반으로 공간 데이터 분석 파이프라인 구축하여 통신 음영 지역 분석  
+- **Kriging 기반 공간 보간 모델**을 적용한 네트워크 품질 분석 및 시각화
+- - GPS 및 WiFi RSSI 데이터를 활용한 공간 데이터 분석 파이프라인 구축  
+
 
 
 
@@ -76,7 +78,7 @@
 *2024*
 
 - 자율주행 차량의 주행 안정성과 안전성 향상을 목표로 한 프로젝트  
-- 글로벌 캡스톤 디자인 프로그램(미국) 참가 프로젝트
+- 미국 캡스톤 디자인 프로그램 참가 
 
 **주요 기여**
 - 장애물 회피(Obstacle Avoidance) 알고리즘 개발 참여  
@@ -89,24 +91,6 @@
 
 
 
----
-
-
-
-### **RF Mapping GIS Heatmap Visualization System**
-*2025*
-
-- 드론으로 수집한 무선 신호 데이터를 활용한 **RF Mapping 시스템** 개발  
-- 통신 음영 지역을 직관적으로 확인할 수 있는 GIS 히트맵 시각화
-
-**주요 기여**
-- GPS 및 WiFi RSSI 데이터를 활용한 공간 데이터 분석 파이프라인 구축  
-- **Kriging 기반 공간 보간 모델** 적용  
-- 네트워크 최적화 의사결정 지원을 위한 시각화 구현
-
-**활용 기술**
-- Python, GIS, Spatial Interpolation  
-- Kriging, GPS, WiFi RSSI, Drone Data Collection
 
 
 
