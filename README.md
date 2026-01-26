@@ -20,22 +20,7 @@
 
 
 - **Coding Test Preparation (Data Structures & Algorithms)**  
-
-
 ---
-
-
-## 🏆 Awards & Achievements
-
-- **Grand Prize**, 2025 ICEE Creative Design-Based Idea Competition  
-
-- **Participant**, 2024 Global Capstone Design Program (USA)  
-  - 자율주행(Autonomous Driving) 프로젝트 참여  
-
-
-
----
-
 
 ## 🔬 Research Experience
 
