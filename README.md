@@ -31,7 +31,6 @@ ICEE 창의융합경진대회 최우수상<br/>
 
 <br/><br/>
 
-<h2>🚀 Featured Projects</h2>
 
 <h2>🚀 Featured Projects</h2>
 
@@ -93,9 +92,8 @@ RAG, CNN, 모델 아키텍처 연구 및 세미나 발표 정리
 
 <h2>📚 Currently Studying</h2>
 
-우리FISA AI Engineering Bootcamp Participant<br/>
+우리FISA AI Engineering Bootcamp Participant(2026.01-2026.07)<br/>
 RAG (Retrieval-Augmented Generation) Architecture<br/>
-Database Design & Relational Modeling<br/>
 Data Structures & Algorithms  
 
 <br/><br/>
