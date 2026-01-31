@@ -11,58 +11,72 @@
 
 <br/><br/>
 
+<h2><strong>AI 모델 아키텍처 설계와 시스템 구현을 통해<br/>신뢰성 있는 실전 AI를 개발합니다.</strong></h2>
 
-<h2>👋 About Me</h2>
+AI 정보공학과 졸업예정 (2021.03 입학)  
+AI 시스템 중심의 모델 설계와 실제 적용을 지향합니다.
 
-<h3><strong>AI 모델 아키텍처 설계와 시스템 구현을 통해 <br/>신뢰성 있는 실전 AI를 개발합니다.</strong></h3>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DEVELOPERYUMIN&theme=default" height="170"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DEVELOPERYUMIN&theme=default" height="170"/>
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEVELOPERYUMIN&theme=default" width="820"/>
-
 </div>
 
+---
 
-<br/>
+## 🏆 Awards
 
-AI 정보공학과 졸업예정 (2021.03~2026.02)<br/>
+- **ICEE 창의융합경진대회 최우수상**
+- **학교 대표 교외 이공계 장학생 선발**
 
-<br/><br/>
+---
 
-• CNN·LLM 기반 모델 설계 및 실험 중심 개발<br/>
-• RAG, 데이터 파이프라인, 웹 백엔드 시스템 구현<br/>
-• 실제 환경 적용을 고려한 AI 시스템 아키텍처 설계  
+## 🚀 Featured Projects
 
-<br/><br/>
+### 🔥 Fire Alarm Sound Classification CNN
+- Log-Mel Spectrogram 기반 화재 경보음 탐지
+- 100+ 모델 실험 (LightCNN, Depthwise CNN, EfficientNet, MobileNet)
+- 재난 대응 시스템 적용 목적 모델 설계
 
+### 📡 Radio Mapping & GIS Visualization
+- 드론 기반 WiFi 신호 수집 시스템
+- FastAPI + MongoDB + GeoJSON 지도 시각화
+- 실시간 데이터 처리 및 서버 아키텍처 설계
 
-<strong>🧑‍💻 Lang & Frameworks</strong><br/><br/>
+### 📈 Stock Issue Scanner
+- 뉴스 + 거래량 기반 테마주 분석 웹 서비스
+- FastAPI + MySQL + Docker 기반 백엔드 설계
+- 금융 데이터 처리 및 API 아키텍처 구현
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/CNN-D00000?style=for-the-badge"/>
+### 🧠 Korean RAG (QLoRA 14B)
+- Retrieval-Augmented Generation 구조 설계
+- 문서 유용성 평가 및 신뢰도 향상 실험
+- LLM 시스템 아키텍처 분석 및 구현
 
-<br/><br/>
+### 📚 AI Study Repository
+- RAG, CNN, 모델 아키텍처 연구 정리
+- 세미나 발표 및 논문 기반 학습 로그
 
-<strong>🛠 Infra & Tools</strong><br/><br/>
+---
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-3A6FFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GeoJSON-00A95C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SLAM-34C759?style=for-the-badge"/>
+## 🦾 Skills
 
-<br/><br/>
+### 🧑‍💻 Lang & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-<h2>📚 Currently Studying</h2>
+### 🛠 Infra & Tools
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
 
-RAG (Retrieval-Augmented Generation) Architecture<br/>
-Database Design & Relational Modeling<br/>
-Coding Test Preparation (Data Structures & Algorithms)
+---
 
-</div>
+## 📚 Currently Studying
+
+- RAG (Retrieval-Augmented Generation) Architecture  
+- Database Design & Relational Modeling  
+- Data Structures & Algorithms  
