@@ -28,21 +28,6 @@ AI 정보공학과 졸업예정 (2021.03~2026.02)<br/>
 
 <br/><br/>
 
-<h2>🦾 Skills</h2>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DEVELOPERYUMIN&theme=github_dark" height="170"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DEVELOPERYUMIN&theme=github_dark" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEVELOPERYUMIN&theme=github_dark" width="820"/>
-
-</div>
-
-
-
 
 <strong>🧑‍💻 Lang & Frameworks</strong><br/><br/>
 
