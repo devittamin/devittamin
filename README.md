@@ -23,6 +23,37 @@
 
 <br/><br/>
 
+
+# 🏆 Honors & Research Experience
+
+## 🔬 Research Experience
+
+**Cyber Safety Lab | 학생연구원**
+*2023.03 – 2025.02*
+
+* AI 기반 안전성 및 신뢰성 연구 수행
+* 의료·재난 데이터 기반 모델 실험 및 검증
+* 자율주행 연구실 프로젝트 및 캡스톤 디자인 참여
+
+**Multi-Agent Systems Lab | R&D 연구생**
+*2025.03 – 2025.09*
+
+* 다중 에이전트 시스템 기반 협력/의사결정 구조 연구
+* R&D 과제 참여 및 알고리즘 실험 수행
+* 연구 프로젝트 실무 개발 및 구현
+
+---
+
+## 🎖 Awards & Selected Programs
+
+**2025 ICEE 창의·융합 경진대회 – 최우수상**
+
+**2024 교외장학사업 학교대표 선발**
+
+**2025학년도 글로컬 사업 디지털 배지 취득**
+
+---
+
 <h2>🚀 Featured Projects</h2>
 
 <h3>👁 Visual Acuity Prediction (Fundus Image AI)</h3>
