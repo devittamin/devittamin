@@ -8,17 +8,17 @@
 <img src="https://img.shields.io/badge/Architecture%20Design-111111?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Reliable%20AI-111111?style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
-<h1><strong>" AI 모델 아키텍처 설계와 시스템 구현을 통해 "<br/>신뢰성 있는 실전 AI를 개발합니다.</strong></h1>
+<h2><strong>" AI 모델 아키텍처 설계와 시스템 구현을 통해 "<br/>신뢰성 있는 실전 AI를 개발합니다.</strong></h2>
 
-<br/><br/>
+<br/>
 
 <a href="mailto:yumin020805@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <h3>AI 정보공학과 졸업예정 (2021.03 입학)</h3>
 
