@@ -15,18 +15,11 @@
 
 <h3>AI 정보공학과 졸업예정 (2021.03 입학)</h3>
 
+<div align="center">
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DEVELOPERYUMIN&theme=default" height="190"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DEVELOPERYUMIN&theme=default" height="190"/>
-<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false&cache_seconds=86400" width="800"/>
-
-
+<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false" height="220"/>
 
 </div>
-
-
 
 <br/><br/>
 
