@@ -10,17 +10,19 @@
 
 <br/>
 
-<h2><strong>" AI 모델 아키텍처 설계와 시스템 구현을 통해 "<br/>신뢰성 있는 실전 AI를 개발합니다.</strong></h2>
+<h3><strong>" AI 모델 아키텍처 설계와 시스템 구현을 통해 "<br/>신뢰성 있는 실전 AI를 개발합니다.</strong></h3>
+
+<h4> AI 정보공학 전공 </h4>
 
 <br/>
 
 <a href="mailto:yumin020805@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/>
 
-<h3>AI 정보공학과 졸업예정 (2021.03 입학)</h3>
+
 
 <br/>
 
@@ -29,52 +31,43 @@
 <img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false" height="220"/>
 </div>
 
-<br/>
-
-<h2>🦾 Skills</h2>
 
 <h3>🧑‍💻 Lang & Frameworks</h3>
 
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
 <br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-<br/><br/>
 
 <h3>🛠 Infra & Tools</h3>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <br/>
 
-# 🏆 Honors & Research Experience
+---
 
-## 🔬 Research Experience
+<h3>🏆 Research Experience & Honors </h3>
 
 **Cyber Safety Lab | 학생연구원**
 *2023.03 – 2025.02*
 
-* AI 기반 안전성 및 신뢰성 연구 수행
-* 의료·재난 데이터 기반 모델 실험 및 검증
-* 자율주행 연구실 프로젝트 및 미국 캡스톤 디자인 참여
+ AI 기반 안전성 및 신뢰성 연구 수행
+ 의료·재난 데이터 기반 모델 실험 및 검증
+ 자율주행 연구실 프로젝트 및 미국 캡스톤 디자인 참여
 
 **Multi-Agent Systems Lab | R&D 연구생**
 *2025.03 – 2025.09*
 
-* 다중 에이전트 시스템 기반 협력/의사결정 구조 연구
-* R&D 과제 참여 및 알고리즘 실험 수행
-* 연구 프로젝트 실무 개발 및 구현
+ 다중 에이전트 시스템 기반 협력/의사결정 구조 연구
+ R&D 과제 참여 및 알고리즘 실험 수행
+ 연구 프로젝트 실무 개발 및 구현
 
 ---
-
-## 🎖 Awards & Selected Programs
 
 **2025 ICEE 창의·융합 경진대회 – 최우수상**
 
@@ -120,11 +113,11 @@ FastAPI + MySQL + Docker 기반 백엔드 설계
 <h3>📚 AI Study Repository</h3>
 RAG, CNN, 모델 아키텍처 연구 및 세미나 발표 정리
 
-<br/><br/>
+<br/>
 
+---
 
-
-<h2>📚 Currently Studying</h2>
+<h3>📚 Currently Studying</h3>
 
 우리FISA AI 엔지니어링 부트캠프 참여 (2026.01 - 2026.07)<br/>
 RAG 기반 검색·생성 아키텍처 설계 및 구현 <br/>
