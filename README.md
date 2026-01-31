@@ -20,11 +20,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DEVELOPERYUMIN&theme=default" height="190"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DEVELOPERYUMIN&theme=default" height="190"/>
-<br/><br/>
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false)
-
+<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false" />
 
 </div>
 
