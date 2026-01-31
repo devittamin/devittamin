@@ -12,6 +12,14 @@
 
 <h1><strong>" AI 모델 아키텍처 설계와 시스템 구현을 통해 "<br/>신뢰성 있는 실전 AI를 개발합니다.</strong></h1>
 
+<br/><br/>
+
+<a href="mailto:yumin020805@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
 <h3>AI 정보공학과 졸업예정 (2021.03 입학)</h3>
 
 <br/><br/>
@@ -118,16 +126,11 @@ RAG, CNN, 모델 아키텍처 연구 및 세미나 발표 정리
 
 <h2>📚 Currently Studying</h2>
 
-우리FISA AI Engineering Bootcamp Participant (2026.01 - 2026.07)<br/>
-RAG (Retrieval-Augmented Generation) Architecture<br/>
-Data Structures & Algorithms
-Reading ACMM 
+우리FISA AI 엔지니어링 부트캠프 참여 (2026.01 - 2026.07)<br/>
+RAG 기반 검색·생성 아키텍처 설계 및 구현 <br/>
+코딩테스트 준비<br/>
+ACMM 정기 독서 및 인사이트 정리
+
 <br/><br/>
 
-<h2>📬 Contact</h2>
 
-<a href="mailto:yumin020805@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
