@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<h1><strong>AI 모델 아키텍처 설계와 시스템 구현을 통해<br/>신뢰성 있는 실전 AI를 개발합니다.</strong></h1>
+<h1><strong>" AI 모델 아키텍처 설계와 시스템 구현을 통해 "<br/>신뢰성 있는 실전 AI를 개발합니다.</strong></h1>
 
 <h3>AI 정보공학과 졸업예정 (2021.03 입학)</h3>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false&cache_seconds=86400" width="800"/>
+<img src="https://streak-stats.demolab.com?user=DEVELOPERYUMIN&theme=default&hide_border=false" height="220"/>
 
 </div>
 
