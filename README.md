@@ -23,6 +23,28 @@
 
 <br/><br/>
 
+<h2>🦾 Skills</h2>
+
+<h3>🧑‍💻 Lang & Frameworks</h3>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<br/><br/>
+
+<h3>🛠 Infra & Tools</h3>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge"/>
+
+<br/><br/>
 
 # 🏆 Honors & Research Experience
 
@@ -33,7 +55,7 @@
 
 * AI 기반 안전성 및 신뢰성 연구 수행
 * 의료·재난 데이터 기반 모델 실험 및 검증
-* 자율주행 연구실 프로젝트 및 캡스톤 디자인 참여
+* 자율주행 연구실 프로젝트 및 미국 캡스톤 디자인 참여
 
 **Multi-Agent Systems Lab | R&D 연구생**
 *2025.03 – 2025.09*
@@ -48,9 +70,9 @@
 
 **2025 ICEE 창의·융합 경진대회 – 최우수상**
 
-**2024 교외장학사업 학교대표 선발**
+**2024 학교 대표 이공계 교외장학생 선발**
 
-**2025학년도 글로컬 사업 디지털 배지 취득**
+**2025학년도 성적우수자 글로컬 사업 디지털 배지 취득**
 
 ---
 
@@ -92,35 +114,14 @@ RAG, CNN, 모델 아키텍처 연구 및 세미나 발표 정리
 
 <br/><br/>
 
-<h2>🦾 Skills</h2>
 
-<h3>🧑‍💻 Lang & Frameworks</h3>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-<br/><br/>
-
-<h3>🛠 Infra & Tools</h3>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge"/>
-
-<br/><br/>
 
 <h2>📚 Currently Studying</h2>
 
 우리FISA AI Engineering Bootcamp Participant (2026.01 - 2026.07)<br/>
 RAG (Retrieval-Augmented Generation) Architecture<br/>
 Data Structures & Algorithms
-
+Reading ACMM 
 <br/><br/>
 
 <h2>📬 Contact</h2>
