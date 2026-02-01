@@ -49,9 +49,12 @@ Retrieval-Augmented Generation 구조 설계<br/>
 
 <br/>
 
-<h3>🔥 Fire Alarm Sound Classification CNN</h3>
+<h3>🚁 Indoor Disaster Evacuation Guidance System</h3>
+실내 화재 상황 대응을 위한 자율 드론 기반 재난 유도 시스템 설계<br/>
 Log-Mel Spectrogram 기반 화재 경보음 탐지<br/>
-100+ 모델 실험 및 아키텍처 비교 분석
+100+ 모델 실험 및 아키텍처 비교 분석<br/>
+AI + 센서 + 서버 아키텍처 통합 설계 및 실험
+
 
 <br/>
 
