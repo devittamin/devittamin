@@ -112,6 +112,7 @@ CACM 정기 독서 및 인사이트 정리
   <li><b>F1TENTH Korean Championship</b> – 5th Place</li>
   <li><b>2024 교외 이공계 장학생</b> – 학교 대표 선발</li>
   <li><b>2025 Academic Excellence</b> – 글로컬 디지털 배지 취득</li>
+  <li><b>2025 교내 창의융합 공학 동아리 - 장려상</li>
 </ul>
 
 
