@@ -31,14 +31,7 @@
 
 <br/>
 
-<h2>🚀 Featured Projects</h2>
-
-<h3>👁 Visual Acuity Prediction (Fundus Image AI)</h3>
-안저(Fundus) 이미지 기반 시력 예측 딥러닝 모델 개발<br/>
-데이터 누수 문제 재설계 및 환자 단위 분리 적용<br/>
-계층적 분류 구조를 통한 클래스 모호성 완화 및 신뢰성 향상
-
-<br/>
+<h2>Projects</h2>
 
 <h3>🧠 Korean RAG (QLoRA 14B)</h3>
 Retrieval-Augmented Generation 구조 설계<br/>
@@ -51,19 +44,6 @@ Retrieval-Augmented Generation 구조 설계<br/>
 Log-Mel Spectrogram 기반 화재 경보음 탐지<br/>
 100+ 모델 실험 및 아키텍처 비교 분석<br/>
 AI + 센서 + 서버 아키텍처 통합 설계 
-
-<br/>
-
-<h3>📡 Radio Mapping & GIS Visualization</h3>
-드론 기반 WiFi 신호 수집 및 지도 시각화 시스템<br/>
-FastAPI + MongoDB + GeoJSON 기반 서버 아키텍처 설계
-
-<br/>
-
-<h3>📚 AI Study Repository</h3>
-RAG, CNN, 모델 아키텍처 연구 자료 정리<br/>
-세미나 자료<br/>
-CACM 저널 인사이트<br/>
 
 <br/>
 
@@ -84,13 +64,13 @@ CACM 정기 독서 및 인사이트 정리
 
 <h4>Cyber Safety Lab | 학생연구원</h4>
 <p><i>Medical AI 소속 : 2023.03 – 2025.02</i><br/>
-<i>자율주행 소속 : 2024.09 – 2025.02</i></p>
+<i>f1tenth 소속 : 2024.09 – 2025.02</i></p>
 
 <ul>
   <li>AI 기반 안전성 및 신뢰성 연구 수행</li>
   <li><b>개인 연구</b> : 의료 데이터 기반 CNN 모델 개발 및 실험</li>
   <li><b>연구 보조</b> : 안과학 의사 대상 진단 보조 LLM 개발 보조</li>
-  <li>자율주행 대회 및 미국 캡스톤 디자인 참여</li>
+  <li>자율주행 대회 및  캡스톤 디자인 참여</li>
 </ul>
 
 <h4>Multi-Agent Systems Lab | R&D 연구생</h4>
@@ -98,18 +78,17 @@ CACM 정기 독서 및 인사이트 정리
 
 <ul>
   <li>다중 에이전트 시스템 기반 협력/의사결정 구조 연구</li>
-  <li>연구 프로젝트 실무 개발 및 구현</li>
+  <li>드론 기반 WiFi 신호 수집 및 지도 시각화 시스템</li>
 </ul>
 
 <h3>🏆 Awards & Competition Highlights</h3>
 
 <ul>
-  <li>VAIV 한국어 LLM Open-Book QA Competition– Final Rank 4th</li>
-  <li>F1TENTH Korean Championship – 5th Place</li>
-  <li>2024 교외 이공계 장학생 – 학교 대표 선발</li>
-  <li>2025 성적우수자 대상 – 글로컬 디지털 배지 취득</li>
-  <li>2025 IoTing Life 융합 아이디어경진대회  – 최우수상</li>
-  <li>2025 교내 창의융합 공학 동아리 사업성과 경진대회 - 장려상</li>
+  <li>VAIV 한국어 LLM Open-Book QA Competition– 4th Place/li>
+  <li>현송 Championship – 5th Place</li>
+  <li>교외 이공계 장학생 선발</li>
+  <li>교내 IoTing Life 융합 아이디어경진대회  – 최우수상</li>
+  <li>교내 창의융합 공학 동아리 사업성과 경진대회 - 장려상</li>
 </ul>
 
 
