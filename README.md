@@ -29,23 +29,6 @@
 <img src="https://streak-stats.demolab.com?user=devittamin&theme=default&hide_border=false" height="220"/>
 </div>
 
-<br/>
-
-<h2>Projects</h2>
-
-<h3>🧠 Korean RAG (QLoRA 14B)</h3>
-Retrieval-Augmented Generation 구조 설계<br/>
-14B 모델 QLoRA 파인튜닝 및 문서 유용성 평가 실험
-
-<br/>
-
-<h3>🚁 Indoor Disaster Evacuation Guidance System</h3>
-실내 화재 상황 대응을 위한 자율 드론 기반 재난 유도 시스템 설계<br/>
-Log-Mel Spectrogram 기반 화재 경보음 탐지<br/>
-100+ 모델 실험 및 아키텍처 비교 분석<br/>
-AI + 센서 + 서버 아키텍처 통합 설계 
-
-<br/>
 
 ---
 
@@ -78,15 +61,16 @@ CACM 정기 독서 및 인사이트 정리
 
 <ul>
   <li>다중 에이전트 시스템 기반 협력/의사결정 구조 연구</li>
-  <li>드론 기반 WiFi 신호 수집 및 지도 시각화 시스템</li>
+  <li>드론 기반 신호 데이터 활용 및 지도 시각화 시스템 구축</li>
 </ul>
 
 <h3>🏆 Awards & Competition Highlights</h3>
 
 <ul>
-  <li>VAIV 한국어 LLM Open-Book QA Competition– 4th Place/li>
+  <li>VAIV 한국어 LLM Open-Book QA Competition– 4th Place</li>
   <li>현송 Championship – 5th Place</li>
   <li>교외 이공계 장학생 선발</li>
+  <li>공공기관 데이터분석 대회 : [국방 기술 품질원] 국산 방산 부품의 국제품질보증 협정 기반 수출 가능성 평가를 위한 인증 가능성 모델 구축 - 3th Place</li>
   <li>교내 IoTing Life 융합 아이디어경진대회  – 최우수상</li>
   <li>교내 창의융합 공학 동아리 사업성과 경진대회 - 장려상</li>
 </ul>
