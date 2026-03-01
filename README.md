@@ -17,9 +17,6 @@
 
 <br/>
 
-<h3><strong>" ???.... " .</strong></h3>
-
-<h4> AI 정보공학 전공 </h4>
 
 <a href="mailto:yumin020805@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
