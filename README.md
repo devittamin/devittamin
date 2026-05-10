@@ -30,18 +30,19 @@
 </div>
 
 
----
-
-<h3>📚 Currently Studying</h3>
-
-우리FISA AI 엔지니어링 부트캠프 참여 (2026.01 - 2026.07)<br/>
-RAG 기반 검색·생성 아키텍처 설계 강의 수강 중 <br/>
-코딩테스트 준비<br/>
-CACM 정기 독서 및 인사이트 정리
-
 <br/>
 
 ---
+
+<h3>Projects</h3>
+
+FINRAG
+불완전 판매 방지를 위한 금융 상품 RAG 챗봇 구축 (2026.01 ~ 2026.02)
+
+Role: AI / RAG Optimization
+Tech Stack: Elasticsearch, LangChain, OpenAI API
+Key Achievement: - Dense/Sparse 하이브리드 검색 및 Reranker 결합으로 검색 성능 최적화
+LLM-as-a-Judge 프레임워크 검증 결과, 초기 베이스라인 대비 문맥 정확도 31% 향상(최종 97%)
 
 <h3>👩🏻‍🔬 Research Experience</h3>
 
@@ -60,15 +61,14 @@ CACM 정기 독서 및 인사이트 정리
 <p><i>2025.03 – 2025.09</i></p>
 
 <ul>
-  <li>다중 에이전트 시스템 기반 협력/의사결정 구조 연구</li>
-  <li>드론 기반 신호 데이터 활용 및 지도 시각화 시스템 구축</li>
+  <li>드론 기반 신호 데이터 활용 - 통신음역 지역 파악 및 지도 시각화 시스템 구축</li>
 </ul>
 
 <h3>🏆 Awards & Competition Highlights</h3>
 
 <ul>
   <li>VAIV 한국어 LLM Open-Book QA Competition– 4th Place</li>
-  <li>현송 Championship – 5th Place</li>
+  <li>현송 자율주행 Championship – 5th Place</li>
   <li>교외 이공계 장학생 선발</li>
   <li>공공기관 데이터분석 대회 : [국방 기술 품질원] 국산 방산 부품의 국제품질보증 협정 기반 수출 가능성 평가를 위한 인증 가능성 모델 구축 - 3th Place</li>
   <li>교내 IoTing Life 융합 아이디어경진대회  – 최우수상</li>
